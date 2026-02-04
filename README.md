@@ -96,7 +96,7 @@ I believe in writing **clean, readable, and maintainable code**, and I enjoy und
 ## 📫 Connect With Me
 
 - 🔗 GitHub: https://github.com/Kaushiki-Kesarwani  
-- 💼 LinkedIn: https://www.linkedin.com/in/kaushiki-kesharwani
+- 💼 LinkedIn: https://www.linkedin.com/in/kaushiki-kesharwani-675106372/
 
 ---
 
