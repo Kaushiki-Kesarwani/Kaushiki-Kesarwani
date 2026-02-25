@@ -39,7 +39,8 @@ I believe in writing **clean, readable, and maintainable code**, and I enjoy und
 
 ### ⚙️ Programming Languages
 - Java  
-- JavaScript  
+- JavaScript
+- C 
 
 ### 🧩 Core Concepts
 - Data Structures & Algorithms  
