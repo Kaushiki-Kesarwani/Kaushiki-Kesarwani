@@ -28,7 +28,7 @@
 
 * HTML
 * CSS
-* React (learning)
+* React 
 
 **Backend**
 
