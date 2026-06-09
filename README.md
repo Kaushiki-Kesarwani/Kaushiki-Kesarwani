@@ -23,6 +23,7 @@
 * Java
 * JavaScript
 * Python
+* C
 
 **Frontend**
 
