@@ -1,59 +1,125 @@
 # 👋 Hi, I'm Kaushiki Kesharwani
 
-🚀 Passionate Developer | 💻 Tech Learner | 🌱 Always Improving
+### Full Stack MERN Developer | Java Programmer | DSA Enthusiast
+
+I'm passionate about building secure, scalable, and user-friendly web applications. I enjoy solving real-world problems through code and continuously improving my skills in full-stack development and software engineering.
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🎓 Student and passionate about **software development and technology**
-* 💡 Interested in **Web Development, Programming, and Problem Solving**
-* 🌱 Currently learning **MERN Stack and Artificial Intelligence (AI)**
-* 🧠 Practicing **Data Structures and Algorithms in Java daily**
-* 🚀 Love building projects and learning new technologies
-* 📚 Always curious to understand **how things work behind the scenes**
-* 🎯 My goal is to become a **skilled full-stack developer**
+- 💻 Full Stack MERN Developer
+- ☕ Solving Data Structures & Algorithms using Java
+- 🌱 Currently learning Advanced MERN, System Design, and AI Integration
+- 🚀 Building real-world full-stack applications with authentication and secure APIs
+- 🔐 Interested in Backend Development, REST APIs, Authentication, and Database Design
+- 📚 Continuously improving problem-solving and software engineering skills
+- 🎯 Aspiring Software Engineer focused on building scalable applications
 
 ---
 
-## 🛠️ Technologies & Tools
+# 🚀 Featured Project
 
-**Languages**
+## 📝 ThinkBoard – MERN Notes Application
 
-* Java
-* JavaScript
-* Python
-* C
+A full-stack notes management application with secure authentication and modern UI.
 
-**Frontend**
+### Features
 
-* HTML
-* CSS
-* React 
+- 🔐 JWT Authentication
+- 🍪 HTTP-only Cookie Authentication
+- 📝 Create, Read, Update & Delete Notes
+- 📌 Pin / Unpin Notes
+- 🔍 Search Notes
+- 🛡 Upstash Redis Rate Limiting
+- ✅ Input Validation
+- 📱 Responsive UI
+- ☁ MongoDB Atlas
+- 🚀 Deployed on Vercel & Render
 
-**Backend**
+**Live Demo**
 
-* Node.js
-* Express.js
+Frontend:
+https://notes-taking-app-sdfw.vercel.app
 
-**Database**
+GitHub:
+https://github.com/Kaushiki-Kesarwani/Notes-taking-app
 
-* MongoDB
+---
 
-**Tools**
+# 🛠 Tech Stack
 
-* Git
-* GitHub
-* VS Code
+### Languages
 
+- Java
+- JavaScript
+- Python
+- C
 
+### Frontend
 
+- React
+- React Router
+- HTML5
+- CSS3
+- Tailwind CSS
+- DaisyUI
+
+### Backend
+
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+
+### Database
+
+- MongoDB
+- MongoDB Atlas
+- Mongoose
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- Vercel
+- Render
+- Upstash Redis
+
+---
+
+# 📚 Currently Learning
+
+- Advanced React
+- Backend Security
+- Advanced MongoDB
+- System Design Fundamentals
+- Docker
+- AI Integration
+- DSA (LeetCode)
+
+---
+
+# 🎯 Career Goals
+
+- Software Development Engineer (SDE)
+- Full Stack Developer
+- Backend Developer
+
+---
 
 ## 🌐 Connect With Me
 
-* GitHub: https://github.com/Kaushiki-Kesarwani
-* 💼 LinkedIn: https://www.linkedin.com/in/kaushiki-kesharwani-675106372/
+📧 Email: kaushikikes@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/kaushiki-kesharwani-675106372/
+
+🐙 GitHub:
+https://github.com/Kaushiki-Kesarwani
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+⭐ Thanks for visiting my GitHub profile!
